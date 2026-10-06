@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+# Generated simulation artifacts and logs
+**/pickles/
+*.pkl
+*.zip
+**/logs/
+
+# Local editor and notebook state
+.vscode/
+.ipynb_checkpoints/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
